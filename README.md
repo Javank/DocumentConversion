@@ -16,20 +16,20 @@ A Java-based project for document conversion. This project showcases how to conv
 ## Setup
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/Javank/DocumentConversion.git
 
-	2.	Navigate to the project directory:
+2.	Navigate to the project directory:
 
 cd DocumentConversion
 
 
-	3.	Build the project with Maven:
+Build the project with Maven:
 
 mvn clean install
 
 
-	4.	Run the project:
+4.	Run the project:
 
 mvn exec:java
 
