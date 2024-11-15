@@ -26,10 +26,12 @@ cd DocumentConversion
 
 Build the project with Maven:
 
+
 mvn clean install
 
 
 4.	Run the project:
+   
 
 mvn exec:java
 
